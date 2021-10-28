@@ -1,0 +1,42 @@
+div.image{
+  text-align: center;
+}
+div.name{
+  font-family: "MS Gothic";
+  font-size: 20px
+}
+div.name{
+  text-align: center;
+  background-color: #DCD3C5;
+  border-style: solid;
+  border-width: 0.7px 0.7px;
+  border-color: #433B3A;
+  border-radius: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 130px;
+  margin-left: 130px
+}
+div{
+  font-family: "Yu Gothic"
+}
+div.location{
+  text-align: center;
+  position: relative; top:-6px
+}
+div.contact{
+  margin-left: 130px;
+  position: relative; top:-15px
+}
+div.contact2{
+  margin-left: 130px;
+  position: relative; top:-34px
+}
+div.global1{
+  margin-left: 130px;
+  position: relative; top:-30px
+}
+div.global2{
+  margin-left: 130px;
+  position: relative; top:-30px
+}
